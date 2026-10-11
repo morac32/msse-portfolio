@@ -40,4 +40,5 @@ Evidence
 •	Week owned: Week 7 - Week 7 Software Quality & Test Plan
 •	Where the decision shows up: Section 5, “Where We Stop, and the Risk We Accept,” and Section 7, “Team Decision Record.”
 •	AI use: AI assisted with reviewing and editing the ADR for clarity and consistency. I revised the suggestions to reflect my decision and reasoning. This statement must match the team’s Week 7 AI Use Record.
-<img width="468" height="637" alt="image" src="https://github.com/user-attachments/assets/6752cf3a-e131-418d-b2f0-55d9ac9dbb9a" />
+<img width="468" height="637" alt="image" src="https://github.com/user-attachments/assets/d37a14fe-be2f-4642-a7a7-bfd2d99327b6" />
+
