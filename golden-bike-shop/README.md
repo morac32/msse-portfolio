@@ -1,5 +1,3 @@
-#Golden Bike Shop - Design Package
-
 ## The System
 
 Golden Bike Shop is a regional business with three connected operations:
